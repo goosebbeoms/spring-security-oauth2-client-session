@@ -11,6 +11,7 @@
 - 동작 원리
   - 출처 : [https://www.devyummi.com/page?id=668e8feb5eb1ff86c03b7103](https://www.devyummi.com/page?id=668e8feb5eb1ff86c03b7103)
     ![구조도](./structure.jpg)
+    ![프로세스](./process.jpg)
 - 참고 자료
   - YOUTUBE : [개발자 유미](https://www.youtube.com/playlist?list=PLJkjrxxiBSFBGk0b931ZkCVlNUo7sFisu)
   - Site : [개발자 유미](https://www.devyummi.com/page?id=668e8bff9601715cc45a971f)
