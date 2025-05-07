@@ -12,6 +12,6 @@
   - 출처 : [https://www.devyummi.com/page?id=668e8feb5eb1ff86c03b7103](https://www.devyummi.com/page?id=668e8feb5eb1ff86c03b7103)
     ![구조도](./structure.jpg)
 - 참고 자료
-  - YOUTUBE : [개발자 유미](https://www.youtube.com/playlist?list=PLJkjrxxiBSFCcOjy0AAVGNtIa08VLk1EJ)
-  - Site : [개발자 유미](https://www.devyummi.com/page?id=668cfe58d3b43a6241eb6b6c)
+  - YOUTUBE : [개발자 유미](https://www.youtube.com/playlist?list=PLJkjrxxiBSFBGk0b931ZkCVlNUo7sFisu)
+  - Site : [개발자 유미](https://www.devyummi.com/page?id=668e8bff9601715cc45a971f)
   - Docs : [spring.io > Spring Security Docs](https://docs.spring.io/spring-security/reference/index.html)
